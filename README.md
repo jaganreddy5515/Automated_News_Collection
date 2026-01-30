@@ -9,4 +9,4 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Project Link : https://huggingface.co/spaces/Jagan5515/Company_News_Analyzer
